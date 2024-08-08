@@ -1,0 +1,3 @@
+User-agent:*
+Disallow:
+Sitemap: https://new-cdn.test-weweb-preprod.click/sitemap.xml
